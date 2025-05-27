@@ -1,4 +1,4 @@
-### **Hi, I am Chiagoziem (El-gibbor) Eke!**
+### **Hi, I am Chiagoziem (El-Gibbor) Eke!**
 Software Engineering Student @ [African Leadership University](https://www.alueducation.com) | Alumnus and Prev. Learning Ambassador @ [ALX Africa](https://www.alxafrica.com/)
 ##  Building Solutions | Automating Workflows | Empowering Through Code  
 I’m a full-stack fanatic with an immense love for blending low-level systems mastery (C, Python) with modern web development (JavaScript, React). My journey spans:
@@ -16,12 +16,11 @@ I’m a full-stack fanatic with an immense love for blending low-level systems m
 * Mastering Python Object Relational Mapping - [SQLAchemy](https://docs.sqlalchemy.org/en/13/).
 * Pursuing my BSc in Software Engineering while diving deep into DevOps, scalable systems, and AI-driven automation.
 ## Technical Skills & Dev Tools  
-|Programming & Framworks|Scripting & Systems|Database|Markup & Styling| 
+|Languages & Framworks|Scripting & Systems|Database|Markup & Styling| 
 |:-----:|:------:|:------:|:-------:|
-|Python|Python|MYSQL|HTML
-|JavaScript|Bash|SQL|CSS
-| ReactJs| C Programing|SqlAchemy (ORM)|TailwindCSS|
-|Flask|||
+|Python, Flask|Python|MySQL|HTML/CSS
+|JavaScript, React|Bash|SQLAchemy|TailwindCSS
+|| C Programing|||
   
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
